@@ -1,5 +1,6 @@
 package br.com.meatapp.domain;
 
+
 import java.io.Serializable;
 
 import javax.persistence.Column;
